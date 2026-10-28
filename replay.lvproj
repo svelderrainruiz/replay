@@ -14,12 +14,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="dependencies" Type="Folder">
 			<Item Name="KeybdEventSerializerLUT.vi" Type="VI" URL="../../modules/coordinator/src/Libraries/KeybdEventSerializerLUT.vi"/>
-			<Item Name="KeyboardAndMouseDataAcquisition.ctl" Type="VI" URL="../../modules/coordinator/src/Libraries/UserEventRecorder/KeyboardAndMouseDataAcquisition.ctl"/>
 			<Item Name="KeyboardLUTSelector.ctl" Type="VI" URL="../../modules/coordinator/src/Libraries/KeyboardLUTSelector.ctl"/>
 			<Item Name="KeyboardSerializer.vi" Type="VI" URL="../../modules/coordinator/src/Libraries/UserEventRecorder/KeyboardSerializer.vi"/>
 			<Item Name="KeyPressLUT.vi" Type="VI" URL="../../modules/coordinator/src/Libraries/UserEventRecorder/KeyPressLUT.vi"/>
 			<Item Name="KeyToVirtualKey.vi" Type="VI" URL="../../modules/coordinator/src/Libraries/KeyToVirtualKey.vi"/>
-			<Item Name="KeyType.ctl" Type="VI" URL="../../modules/coordinator/src/Libraries/UserEventRecorder/KeyType.ctl"/>
 			<Item Name="LUTVirtualKeySelector.ctl" Type="VI" URL="../../modules/coordinator/src/Libraries/LUTVirtualKeySelector.ctl"/>
 			<Item Name="MouseLUT.vi" Type="VI" URL="../../modules/coordinator/src/Libraries/UserEventRecorder/MouseLUT.vi"/>
 			<Item Name="MouseLUTSelector.ctl" Type="VI" URL="../../modules/coordinator/src/Libraries/MouseLUTSelector.ctl"/>
@@ -110,7 +108,7 @@
 				<Property Name="Source[12].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/KeyType.ctl</Property>
+				<Property Name="Source[13].itemID" Type="Ref"></Property>
 				<Property Name="Source[13].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[13].type" Type="Str">VI</Property>
 				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
@@ -160,7 +158,7 @@
 				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[7].type" Type="Str">VI</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Item[@Label='dependencies' and @Type='Folder']/KeyboardAndMouseDataAcquisition.ctl</Property>
+				<Property Name="Source[8].itemID" Type="Ref"></Property>
 				<Property Name="Source[8].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[8].type" Type="Str">VI</Property>
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
