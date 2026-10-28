@@ -116,5 +116,6 @@
 	<Item Name="Load Replay Samples.vi" Type="VI" URL="../Load Replay Samples.vi"/>
 	<Item Name="Replay MH Loop.ctl" Type="VI" URL="../Replay MH Loop.ctl"/>
 	<Item Name="Replay Loop Business Logic.vi" Type="VI" URL="../Replay Loop Business Logic.vi"/>
+	<Item Name="Test Replay API.vi" Type="VI" URL="../Test Replay API.vi"/>
 	<Item Name="LoadMouseLUT.vi" Type="VI" URL="../../../../../../modules/coordinator/src/Libraries/UserEventRecorder/LoadMouseLUT.vi"/>
 </Library>
