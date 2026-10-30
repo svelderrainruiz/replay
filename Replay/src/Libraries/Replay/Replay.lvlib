@@ -93,7 +93,6 @@
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
 		</Item>
-		<Item Name="Write Mouse Event Frame.vi" Type="VI" URL="../Write Mouse Event Frame.vi"/>
 	</Item>
 	<Item Name="Module Sync" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -112,10 +111,8 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Replay Helper Loop.ctl" Type="VI" URL="../Replay Helper Loop.ctl"/>
-	<Item Name="LoadKeyboardLUT.vi" Type="VI" URL="../../../../../../modules/coordinator/src/Libraries/UserEventRecorder/LoadKeyboardLUT.vi"/>
 	<Item Name="Load Replay Samples.vi" Type="VI" URL="../Load Replay Samples.vi"/>
 	<Item Name="Replay MH Loop.ctl" Type="VI" URL="../Replay MH Loop.ctl"/>
 	<Item Name="Replay Loop Business Logic.vi" Type="VI" URL="../Replay Loop Business Logic.vi"/>
 	<Item Name="Test Replay API.vi" Type="VI" URL="../Test Replay API.vi"/>
-	<Item Name="LoadMouseLUT.vi" Type="VI" URL="../../../../../../modules/coordinator/src/Libraries/UserEventRecorder/LoadMouseLUT.vi"/>
 </Library>
