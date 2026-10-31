@@ -13,7 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="replay" Type="Folder"/>
-		<Item Name="Replay.lvlib" Type="Library" URL="../Replay/src/Libraries/Replay/Replay.lvlib"/>
+		<Item Name="Replay.lvlib" Type="Library" URL="../src/Replay.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="replay" Type="Source Distribution">
